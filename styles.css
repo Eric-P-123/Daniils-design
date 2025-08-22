@@ -1,0 +1,17 @@
+
+#left{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding: 15px;
+    font: segoe ui;
+    font-size: 20px;
+}
+#right{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding: 15px;
+    font: segoe ui;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
